@@ -1,4 +1,7 @@
-helloworld
-==========
+# Hello World
 
-My first repo
+This is my first repo
+
+##COMP1950
+
+Hi
