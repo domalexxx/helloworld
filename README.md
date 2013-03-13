@@ -4,4 +4,4 @@ This is my first repo
 
 ##COMP1950
 
-Hi
+This is part of my COMP1950 class
